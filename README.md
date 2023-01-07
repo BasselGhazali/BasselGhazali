@@ -9,6 +9,8 @@ All things related to Web3 technologies. I'm learning how the bitcoin code works
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+---
+
 ### I'm most familiar with  
 I used Python in university for AI-based projects, and then at work to contribute to multiple repos. We have a toolkit we use on client projects, based on an in-house developed measurement kit, as well as a Flask application to automate how we generate deliverables.
 
@@ -17,6 +19,8 @@ I used Python in university for AI-based projects, and then at work to contribut
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+---
 
 ### I'm well-versed in
 I am self-taught in front-end development. I started exploring it as it felt like an interesting way to combine my artistic side with my technical side. I used these skills to create client deliverables at work, and I'm currently using the skills to develop dApps.
@@ -27,11 +31,16 @@ I am self-taught in front-end development. I started exploring it as it felt lik
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ### I'd like to learn more about
 I have a basic working understanding of these tools, and would like to continue improving my proficiency in the future.
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+---
 
 ### When I’m not staring at a computer to work on technology
 I like to disconnect by staring at another computer to create digital art. I wanted to use my creativity to help spread peace and mindfulness, so I'm creating an art brand. Lineart's coming soon!
@@ -39,11 +48,15 @@ I like to disconnect by staring at another computer to create digital art. I wan
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+---
+
 ### When I don't want to stare at a computer screen
 I sometimes head out into nature. There, I stare into my camera screen. I love capturing rare moments in nature, and capturing the hidden world around us through macro-photography.
 
 ### Fun fact
 I caught a bear when I was 14. Teddy wasn’t harmed and is still living happily with her friend Baloo at the Animal Encounter, a wildlife conservation center in Aley, Lebanon.
+
+---
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/basselghazali/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
