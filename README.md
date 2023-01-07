@@ -12,7 +12,7 @@
 
 📫 How to reach me: basseghazali@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basselghazali)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basselghazali&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
