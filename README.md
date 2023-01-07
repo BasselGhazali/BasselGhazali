@@ -10,6 +10,8 @@ All things related to Web3 technologies. I'm learning how the bitcoin code works
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### I'm most familiar with  
+I used Python in university for AI-based projects, and then at work to contribute to multiple repos. We have a toolkit we use on client projects, based on an in-house developed measurement kit, as well as a Flask application to automate how we generate deliverables.
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -17,6 +19,8 @@ All things related to Web3 technologies. I'm learning how the bitcoin code works
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### I'm well-versed in
+I am self-taught in front-end development. I started exploring it as it felt like an interesting way to combine my artistic side with my technical side. I used these skills to create client deliverables at work, and I'm currently using the skills to develop dApps.
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +28,7 @@ All things related to Web3 technologies. I'm learning how the bitcoin code works
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### I'd like to learn more about
+I have a basic working understanding of these tools, and would like to continue improving my proficiency in the future.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
