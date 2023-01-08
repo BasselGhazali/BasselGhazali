@@ -12,7 +12,7 @@ All things related to Web3 technologies. I'm learning how the bitcoin code works
 ---
 
 ### I'm most familiar with  
-I used Python in university for AI-based projects, and then at work to contribute to multiple repos. We have a toolkit we use on client projects, based on an in-house developed measurement kit, as well as a Flask application to automate how we generate deliverables.
+Python! I used it in university for AI-based projects, and then at work to contribute to multiple repos. We have a toolkit we use on client projects, based on an in-house developed measurement kit, as well as a Flask application to automate how we generate deliverables.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -23,7 +23,7 @@ I used Python in university for AI-based projects, and then at work to contribut
 ---
 
 ### I'm well-versed in
-I am self-taught in front-end development. I started exploring it as it felt like an interesting way to combine my artistic side with my technical side. I used these skills to create client deliverables at work, and I'm currently using the skills to develop dApps.
+Front-end development (self-taught). I started exploring it as it felt like an interesting way to combine my artistic side with my technical side. I used these skills to create client deliverables at work, and I'm currently using the skills to develop dApps.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +34,7 @@ I am self-taught in front-end development. I started exploring it as it felt lik
 ---
 
 ### I'd like to learn more about
-I have a basic working understanding of these tools, and would like to continue improving my proficiency in the future.
+Cloud and data visualisation. I have a basic working understanding of these tools, and would like to continue improving my proficiency in the future.
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
